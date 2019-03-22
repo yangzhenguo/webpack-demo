@@ -62,3 +62,5 @@ typings/
 
 /demo01/dist/
 /demo02/dist/bundle.js
+/.idea/
+/demo02/package-lock.json
